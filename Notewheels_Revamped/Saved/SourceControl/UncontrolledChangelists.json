@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/PCUly/OneDrive/Bureau/Fork/Notewheels/Notewheels_Revamped/Content/Test/Blueprint/Actors/BP_RythmManager.uasset",
+				"C:/Users/PCUly/OneDrive/Bureau/Fork/Notewheels/Notewheels_Revamped/Content/Test/Blueprint/Actors/BP_IndicatorBouncingNote.uasset",
+				"C:/Users/PCUly/OneDrive/Bureau/Fork/Notewheels/Notewheels_Revamped/Content/Test/Map/Test_features.umap",
+				"C:/Users/PCUly/OneDrive/Bureau/Fork/Notewheels/Notewheels_Revamped/Content/Test/Blueprint/Actors/BP_BouncingNote.uasset",
+				"C:/Users/PCUly/OneDrive/Bureau/Fork/Notewheels/Notewheels_Revamped/Content/Test/Level_Sequences/Antasmav4.uasset",
 				"C:/Users/PCUly/OneDrive/Documents/Unreal Projects/Notewheels_Revamped/Content/Test/Map/Test_features.umap",
 				"C:/Users/PCUly/OneDrive/Documents/Unreal Projects/Notewheels_Revamped/Content/Test/Blueprint/Actors/BP_IndicatorBouncingNote.uasset",
 				"C:/Users/PCUly/OneDrive/Documents/Unreal Projects/Notewheels_Revamped/Content/Test/Blueprint/Actors/BP_Note.uasset",
